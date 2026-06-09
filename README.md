@@ -51,17 +51,7 @@ Non-alphabet characters (spaces, numbers, punctuation) are preserved unchanged.
 
 ---
 
-## How to Run
 
-**Web version:**
-Just open `index.html` in any browser.
-
-**Python version:**
-```bash
-python caesar_cipher.py
-```
-
----
 
 ## Tech Stack
 
