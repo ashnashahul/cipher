@@ -65,5 +65,5 @@ Non-alphabet characters (spaces, numbers, punctuation) are preserved unchanged.
 ## Internship Details
 
 - **Program:** DecodeLabs Industrial Training
-- **Batch:** 2026
+- **Batch:** June 2026
 - **Track:** Cyber Security Analyst
